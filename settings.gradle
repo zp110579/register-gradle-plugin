@@ -1,0 +1,2 @@
+include ':app', ':register-gradle-plugin'
+rootProject.name='register-gradle-plugin'
