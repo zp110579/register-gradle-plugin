@@ -1,2 +1,2 @@
-include ':app', ':register-gradle-plugin'
+include ':app', ':plugin'
 rootProject.name='register-gradle-plugin'
